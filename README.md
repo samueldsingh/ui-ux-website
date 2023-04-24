@@ -11,4 +11,4 @@ While creating the website I learnt:
 - Fundamentals of the CSS BEM Model
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- Deploying websites to extremely fast servers and give them a custom domain name.
+- Deploying websites to extremely fast servers and giving them a custom domain name.
